@@ -4,6 +4,7 @@ added by user 2
 
 sdfksf
 
-ajout via branch user 1
+Ajouter par user 1
+Ajouter par user 2
 
-deuxieme ajout sur user 1
+ajout on branch user 2
